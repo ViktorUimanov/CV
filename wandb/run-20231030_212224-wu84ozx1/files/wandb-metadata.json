@@ -1,0 +1,36 @@
+{
+    "os": "macOS-13.0-arm64-arm-64bit",
+    "python": "3.11.0",
+    "heartbeatAt": "2023-10-30T17:22:25.356771",
+    "startedAt": "2023-10-30T17:22:24.327298",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/ViktorUimanov/binance_listings.git",
+        "commit": "6c13219dd2bfdfeadca220474dbbba358fc3f7f7"
+    },
+    "email": "uimanov.viktor@gmail.com",
+    "root": "/Users/viktor",
+    "host": "Viktors-MBP",
+    "username": "viktor",
+    "executable": "/Users/viktor/anaconda3/envs/cv_vkusvill/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 286.1342353820801
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
